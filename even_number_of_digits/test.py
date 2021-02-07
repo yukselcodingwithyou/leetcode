@@ -4,7 +4,7 @@ from solution import Solution
 
 
 
-class TestMaxConsecutiveOnes(unittest.TestCase):
+class TestEvenNumberOfDigits(unittest.TestCase):
 
     def setUp(self):
         self.solution = Solution()
