@@ -1,8 +1,5 @@
 import unittest
-import sys
 from solution import Solution
-
-sys.dont_write_bytecode = True
 
 
 

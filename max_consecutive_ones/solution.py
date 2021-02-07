@@ -1,6 +1,9 @@
 
 class Solution:
 
+    '''
+    Finds maximum number of consecutive 1s in an array
+    '''
     def find_max_consecutive_ones(self, nums):
         consecutive_ones = 0
         ones = 0
